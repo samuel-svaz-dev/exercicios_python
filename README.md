@@ -1,24 +1,22 @@
-# Exercícios em Python - Curso em Vídeo - Pesquisas
-Repositório criado para documentar meu desenvolvimento nos estudos de Python (Exercícios e Desafios)
-Utilizo como base os exercícios do Curso em Vídeo (Módulos 1 ao 3) além de desafios pesquisados
+# 🐍 Exercícios em Python | Curso em Vídeo
 
-## Objetivo
-Praticar lógica de programação, estrutura de dados e resolução de problemas por meio de exercícios e pequenos projetos
+Repositório dedicado à documentação da minha jornada de aprendizado em **Python**. Aqui compilo os exercícios resolvidos do [Curso em Vídeo](https://www.cursoemvideo.com/) (Professor Gustavo Guanabara), complementados com desafios extras focados em fixação de lógica e boas práticas.
 
-## Conteúdos estudados
-- Estruturas Condicionais
-- Estruturas de Repetição
-- Funções
-- Listas
-- Tuplas
-- Dicionários
-- Manipulação de Dados
-- Modularização e Pacotes
+---
 
-## Tecnologias
-- Python 3.19
-- Pycharm
-- Git & Github
+## 🎯 Objetivo
+Desenvolver habilidades sólidas em **lógica de programação**, **manipulação de estruturas de dados** e **resolução de problemas** através da prática constante.
 
-## Nota
-- Esse repositório é atualizado a medida em que realizo mais exercícios e projetos
+## 📚 Conteúdo Programático
+Os estudos abrangem desde a base até tópicos mais avançados:
+
+- **Fundamentos:** Variáveis, Operadores, Estruturas Condicionais.
+- **Estruturas de Repetição:** Laços (for/while) e controle de fluxo.
+- **Estruturas Compostas:** Listas, Tuplas e Dicionários.
+- **Modularização:** Funções, escopo, módulos e pacotes.
+- **Manipulação de Dados:** Tratamento de erros, arquivos e bibliotecas.
+
+## 🛠️ Tecnologias Utilizadas
+* **Linguagem:** Python 3.19
+* **IDE:** PyCharm
+* **Versionamento:** Git & GitHub
