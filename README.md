@@ -18,5 +18,5 @@ Os estudos abrangem desde a base até tópicos mais avançados:
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3.19
-* **IDE:** PyCharm
+* **IDE:** VSCode
 * **Versionamento:** Git & GitHub
